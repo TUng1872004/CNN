@@ -1,1 +1,8 @@
-seaborn
+tensorflow==2.13.0  # Adjust version based on your environment
+opencv-python==4.8.0.74
+numpy==1.24.3
+Pillow==9.5.0
+matplotlib==3.7.2
+keras==2.13.0
+pandas==1.5.3
+seaborn==0.12.2
